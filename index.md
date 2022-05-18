@@ -47,6 +47,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
     <b>A Tree-based Federated Learning Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources</b><br>
     <b>Xiaoqing Tan</b>, Chung-Chou H. Chang, Ling Zhou, Lu Tang<br>
     <em>International Conference on Machine Learning (ICML) 2022</em><br>
+    <font color='#CD5C5C'>** An earlier version won Honorable Mention Award at JSM 2021 Paper Competition</font><br>
 [<a href="https://arxiv.org/pdf/2103.06261.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ifedtree">Package & Code</a>] [<a href="https://www.youtube.com/watch?v=Pc_YNS2Wga4">Video</a>]
 </p>
 </td>
@@ -93,7 +94,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 ## Selected Awards
 
 - National Science Foundation (NSF) Scholarships for Quality and Productivity Research Conference (QPRC) 2022
-- Honorable Mention at the 2021 ASA Statistical Learning and Data Science (SLDS) Section Student Paper Award competition
+- Honorable Mention Award at the 2021 ASA Joint Statistical Meetings (JSM) Statistical Learning and Data Science (SLDS) Section Student Paper Award competition
 - Best performance on the Ph.D. Qualifying Exam, Department of Biostatistics, University of Pittsburgh, 2020
 - National scholarship, 2015, 2017
 
