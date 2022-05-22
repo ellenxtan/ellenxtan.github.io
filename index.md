@@ -101,7 +101,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 
 ## Professional Services
 
-- Reviewer for NeurIPS, ICML, AISTATS, IEEE Transactions on Industrial Informatics
+- Reviewer for NeurIPS, ICML, AISTATS, IEEE Transactions on Industrial Informatics, etc
 - Session Chair, CS17 Data-driven Healthcare, 2022 Symposium on Data Science & Statistics (June 7-10, 2022, Pittsburgh, PA)
 - Student Volunteer, The 2nd Conference on Lifetime Data Science (LiDS) (May 29-31, 2019, Pittsburgh, PA)
 - Student Volunteer, The 2019 ASA Pittsburgh Chapter Spring Banquet (April 16, 2019, Pittsburgh, PA)
