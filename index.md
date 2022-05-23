@@ -6,7 +6,7 @@ I am a Ph.D. candidate in Biostatistics at University of Pittsburgh, advised by 
 
 My research interest lies in developing novel statistical and machine learning methods in <strong>causal inference</strong> and <strong>heterogeneous data integration</strong>. 
 
-I am currently a Graduate student researcher at Statistical and Data Management Center in [NRG Oncology](https://www.nrgoncology.org/), working with [Gong Tang](https://publichealth.pitt.edu/home/directory/gong-tang). I also work with [Timothy Girard](https://ccm.pitt.edu/?q=content/girard-timothy) at Department of Critical Care Medicine, University of Pittsburgh. 
+I am currently a Graduate student researcher at Statistical and Data Management Center in [NRG Oncology](https://www.nrgoncology.org/). I interned at [Eli Lilly and Company](https://www.lilly.com/) working with [Shu Yang](https://shuyang.wordpress.ncsu.edu/) and [Ilya Lipkovich](https://scholar.google.com/citations?user=m4bEhasAAAAJ&hl=en) in summer 2021. I also work with [Timothy Girard](https://ccm.pitt.edu/?q=content/girard-timothy) at Department of Critical Care Medicine, University of Pittsburgh. 
 
 I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane Animal Rescue](https://www.humaneanimalrescue.org/), I am a pro-bono consultant at [Fourth River Solutions](http://www.fourthriversolutions.org/) for local businesses in Pittsburgh. I worked as a data science project reviewer in a global team at [DataKind](https://www.datakind.org/) to help identify impactful and innovative proposals that will help spur inclusive growth during the pandemic in summer 2020.
 
@@ -40,6 +40,17 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 
 
 ## Selected Publications
+
+<tr>
+<td width="100%">
+<p>
+    <b>When Doubly Robust Methods Meet Machine Learning for Estimating Treatment Effects from Real-World Data</b><br>
+    <b>Xiaoqing Tan</b>, Shu Yang, Wenyu Ye, Douglas E. Faries, Ilya Lipkovich, Zbigniew Kadziola<br>
+    <em>Submitted to Biometrics</em><br>
+[<a href="https://arxiv.org/pdf/2204.10969.pdf">Paper</a>] 
+</p>
+</td>
+</tr>
 
 <tr>
 <td width="100%">
