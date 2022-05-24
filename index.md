@@ -6,7 +6,7 @@ I am a Ph.D. candidate in Biostatistics at University of Pittsburgh, advised by 
 
 My research interest lies in developing novel statistical and machine learning methods in <strong>causal inference</strong> and <strong>heterogeneous data integration</strong>. 
 
-I am currently a Graduate student researcher at Statistical and Data Management Center in [NRG Oncology](https://www.nrgoncology.org/). I interned at [Eli Lilly and Company](https://www.lilly.com/) working with [Shu Yang](https://shuyang.wordpress.ncsu.edu/) and [Ilya Lipkovich](https://scholar.google.com/citations?user=m4bEhasAAAAJ&hl=en) in summer 2021. I also work with [Timothy Girard](https://ccm.pitt.edu/?q=content/girard-timothy) at Department of Critical Care Medicine, University of Pittsburgh. 
+I am currently a Graduate student researcher at [NRG Oncology](https://www.nrgoncology.org/). I interned at [Eli Lilly and Company](https://www.lilly.com/) working with [Shu Yang](https://shuyang.wordpress.ncsu.edu/) and [Ilya Lipkovich](https://scholar.google.com/citations?user=m4bEhasAAAAJ&hl=en) in summer 2021. I also work with [Timothy Girard](https://ccm.pitt.edu/?q=content/girard-timothy) at Department of Critical Care Medicine, University of Pittsburgh. 
 
 I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane Animal Rescue](https://www.humaneanimalrescue.org/), I am a pro-bono consultant at [Fourth River Solutions](http://www.fourthriversolutions.org/) for local businesses in Pittsburgh. I worked as a data science project reviewer in a global team at [DataKind](https://www.datakind.org/) to help identify impactful and innovative proposals that will help spur inclusive growth during the pandemic in summer 2020.
 
@@ -107,7 +107,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 - National Science Foundation (NSF) Scholarships for Quality and Productivity Research Conference (QPRC) 2022
 - Honorable Mention Award at the 2021 ASA Joint Statistical Meetings (JSM) Statistical Learning and Data Science (SLDS) Section Student Paper Award competition
 - Best performance on the Ph.D. Qualifying Exam, Department of Biostatistics, University of Pittsburgh, 2020
-- National scholarship, 2015, 2017
+- National scholarship, Ministry of Education of China, 2015, 2017
 
 
 ## Professional Services
