@@ -59,7 +59,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
     <b>Xiaoqing Tan</b>, Chung-Chou H. Chang, Ling Zhou, Lu Tang<br>
     <em>International Conference on Machine Learning (ICML) 2022</em><br>
     <font color='#CD5C5C'>** Winner of the Student Research Award at the 34th New England Statistics Symposium</font><br>
-    <font color='#CD5C5C'>** Honorable Mention Award at JSM 2021 Studnet Paper Competition</font><br>
+    <font color='#CD5C5C'>** Honorable Mention Award at JSM 2021 Student Paper Competition</font><br>
 [<a href="https://arxiv.org/pdf/2103.06261.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ifedtree">Package & Code</a>] [<a href="https://www.youtube.com/watch?v=Pc_YNS2Wga4">Video</a>]
 </p>
 </td>
