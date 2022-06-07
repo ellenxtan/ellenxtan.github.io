@@ -41,16 +41,16 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 
 ## Selected Publications
 
-<tr>
+<!-- <tr>
 <td width="100%">
 <p>
     <b>When Doubly Robust Methods Meet Machine Learning for Estimating Treatment Effects from Real-World Data</b><br>
     <b>Xiaoqing Tan</b>, Shu Yang, Wenyu Ye, Douglas E. Faries, Ilya Lipkovich, Zbigniew Kadziola<br>
-    <em>Submitted to Biometrics</em><br>
+    <em>Submitted</em><br>
 [<a href="https://arxiv.org/pdf/2204.10969.pdf">Paper</a>] 
 </p>
 </td>
-</tr>
+</tr> -->
 
 <tr>
 <td width="100%">
