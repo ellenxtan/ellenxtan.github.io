@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I am a Ph.D. candidate in Biostatistics at University of Pittsburgh, advised by [Lu Tang](https://publichealth.pitt.edu/home/directory/lu-tang) and [Gong Tang](https://publichealth.pitt.edu/home/directory/gong-tang). I obtained my B.S. in Pharmacy and Computer Science at Sun Yat-sen University in 2018. 
+I am a Ph.D. candidate in Biostatistics at University of Pittsburgh, advised by [Lu Tang](https://publichealth.pitt.edu/home/directory/lu-tang) and [Gong Tang](https://publichealth.pitt.edu/home/directory/gong-tang). I was a visiting student in Computer Science at Carnegie Mellon University from 2019 to 2021. I obtained my B.S. in Pharmacy and Computer Science at Sun Yat-sen University in 2018. 
 
 My research interest lies in developing novel statistical and machine learning methods in <strong>causal inference</strong> and <strong>heterogeneous data integration</strong>. 
 
