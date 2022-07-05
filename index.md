@@ -105,8 +105,9 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 
 ## Selected Awards
 
-- National Science Foundation (NSF) Scholarships for Quality and Productivity Research Conference (QPRC) 2022
-- Honorable Mention Award at the 2021 ASA Joint Statistical Meetings (JSM) Statistical Learning and Data Science (SLDS) Section Student Paper Award competition
+- National Science Foundation (NSF) Scholarships for Quality and Productivity Research Conference (QPRC), 2022
+- Winner of the Student Research Award at the 35th New England Statistics Symposium (NESS), 2022
+- Honorable Mention Award at the ASA Joint Statistical Meetings (JSM) Statistical Learning and Data Science (SLDS) Section Student Paper Award competition, 2021
 - Best performance on the Ph.D. Qualifying Exam, Department of Biostatistics, University of Pittsburgh, 2020
 - National scholarship, Ministry of Education of China, 2015, 2017
 
