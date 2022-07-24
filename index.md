@@ -55,7 +55,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <tr>
 <td width="100%">
 <p>
-    <b>A Tree-based Federated Learning Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources</b><br>
+    <b>A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources</b><br>
     <b>Xiaoqing Tan</b>, Chung-Chou H. Chang, Ling Zhou, Lu Tang<br>
     <em>International Conference on Machine Learning (ICML) 2022</em><br>
     <font color='#CD5C5C'>** Winner of the Student Research Award at the 35th New England Statistics Symposium</font><br>
@@ -71,7 +71,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <p>
     <b>Identifying Principal Stratum Causal Effects Conditional on a Post-treatment Intermediate Response</b><br>
     <b>Xiaoqing Tan</b>, Judah Abberbock, Priya Rastogi, Gong Tang<br>
-    <em>Causal Learning and Reasoning (CLeaR) 2022</em><br>
+    <em>Conference on Causal Learning and Reasoning (CLeaR) 2022</em><br>
 [<a href="https://arxiv.org/pdf/2103.04175.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ps_ate">Code</a>] 
 </p>
 </td>
