@@ -58,7 +58,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
     <b>RISE: Robust Individualized Decision Learning with Sensitive Variables</b><br>
     <b>Xiaoqing Tan</b>, Zhengling Qi, hristopher W. Seymour, Lu Tang<br>
     <em>Neural Information Processing Systems (NeurIPS) 2022</em><br>
-[<a href="">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Package & Code</a>] [<a href="">Video</a>]
+[<a href="">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Code</a>] [<a href="">Video</a>]
 </p>
 </td>
 </tr>
@@ -72,7 +72,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
     <em>International Conference on Machine Learning (ICML) 2022</em><br>
     <font color='#CD5C5C'>** Winner of the Student Research Award at the 35th New England Statistics Symposium</font><br>
     <font color='#CD5C5C'>** Honorable Mention Award at JSM 2021 Student Paper Competition</font><br>
-[<a href="https://proceedings.mlr.press/v162/tan22a/tan22a.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ifedtree">Package & Code</a>] [<a href="https://slideslive.com/38984007/a-treebased-model-averaging-approach-for-personalized-treatment-effect-estimation-from-heterogeneous-data-sources">Video</a>]
+[<a href="https://proceedings.mlr.press/v162/tan22a/tan22a.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ifedtree">Code</a>] [<a href="https://slideslive.com/38984007/a-treebased-model-averaging-approach-for-personalized-treatment-effect-estimation-from-heterogeneous-data-sources">Video</a>]
 </p>
 </td>
 </tr>
