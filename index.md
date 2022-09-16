@@ -58,7 +58,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
     <b>RISE: Robust Individualized Decision Learning with Sensitive Variables</b><br>
     <b>Xiaoqing Tan</b>, Zhengling Qi, hristopher W. Seymour, Lu Tang<br>
     <em>Neural Information Processing Systems (NeurIPS) 2022</em><br>
-[<a href="">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Code</a>] [<a href="">Video</a>]
+[<a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/08.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Code</a>] [<a href="">Video</a>]
 </p>
 </td>
 </tr>
