@@ -55,12 +55,24 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <tr>
 <td width="100%">
 <p>
-    <b>A Tree-based Federated Learning Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources</b><br>
+    <b>RISE: Robust Individualized Decision Learning with Sensitive Variables</b><br>
+    <b>Xiaoqing Tan</b>, Zhengling Qi, hristopher W. Seymour, Lu Tang<br>
+    <em>Neural Information Processing Systems (NeurIPS) 2022</em><br>
+[<a href="">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Package & Code</a>] [<a href="">Video</a>]
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td width="100%">
+<p>
+    <b>A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources</b><br>
     <b>Xiaoqing Tan</b>, Chung-Chou H. Chang, Ling Zhou, Lu Tang<br>
     <em>International Conference on Machine Learning (ICML) 2022</em><br>
     <font color='#CD5C5C'>** Winner of the Student Research Award at the 35th New England Statistics Symposium</font><br>
     <font color='#CD5C5C'>** Honorable Mention Award at JSM 2021 Student Paper Competition</font><br>
-[<a href="https://arxiv.org/pdf/2103.06261.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ifedtree">Package & Code</a>] [<a href="https://www.youtube.com/watch?v=Pc_YNS2Wga4">Video</a>]
+[<a href="https://proceedings.mlr.press/v162/tan22a/tan22a.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ifedtree">Package & Code</a>] [<a href="https://slideslive.com/38984007/a-treebased-model-averaging-approach-for-personalized-treatment-effect-estimation-from-heterogeneous-data-sources">Video</a>]
 </p>
 </td>
 </tr>
@@ -72,7 +84,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
     <b>Identifying Principal Stratum Causal Effects Conditional on a Post-treatment Intermediate Response</b><br>
     <b>Xiaoqing Tan</b>, Judah Abberbock, Priya Rastogi, Gong Tang<br>
     <em>Causal Learning and Reasoning (CLeaR) 2022</em><br>
-[<a href="https://arxiv.org/pdf/2103.04175.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ps_ate">Code</a>] 
+[<a href="https://proceedings.mlr.press/v177/tan22a/tan22a.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ps_ate">Code</a>] 
 </p>
 </td>
 </tr>
