@@ -4,7 +4,8 @@ layout: default
 ## About Me
 I am a Ph.D. candidate in Biostatistics at University of Pittsburgh, advised by [Lu Tang](https://publichealth.pitt.edu/home/directory/lu-tang) and [Gong Tang](https://publichealth.pitt.edu/home/directory/gong-tang). I was a visiting student in Computer Science at Carnegie Mellon University from 2019 to 2021. I obtained my B.S. in Pharmacy and Computer Science at Sun Yat-sen University in 2018. 
 
-My research interest lies in developing novel statistical and machine learning methods in <font color='#000000'>causal inference</font>, <strong>data integration</strong>, and <strong>decision fairness</strong>. 
+My research interest lies in developing novel statistical and machine learning methods in <font color='#000000'>causal inference</font>, <font color='#000000'>data integration</font>, and <font color='#000000'>decision fairness</font>.
+<!-- <strong>data integration</strong>, and <strong>decision fairness</strong>.  -->
 
 I am currently a Graduate student researcher at [NRG Oncology](https://www.nrgoncology.org/). I interned at [Eli Lilly and Company](https://www.lilly.com/) working with [Shu Yang](https://shuyang.wordpress.ncsu.edu/) and [Ilya Lipkovich](https://scholar.google.com/citations?user=m4bEhasAAAAJ&hl=en) in summer 2021. I also work with [Timothy Girard](https://ccm.pitt.edu/?q=content/girard-timothy) at Department of Critical Care Medicine, University of Pittsburgh. 
 
