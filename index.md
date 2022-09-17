@@ -57,7 +57,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <td width="100%">
 <p>
     <b><font color='#000000'>RISE: Robust Individualized Decision Learning with Sensitive Variables</font></b><br>
-    <b><font color='#000000'>Tan, X.</font>, Qi, Z., Seymour, C., Tang, L.</b><br>
+    <b><font color='#000000'>Tan, X.</font></b>, Qi, Z., Seymour, C., Tang, L.<br>
     <em>Advances in Neural Information Processing Systems (<font color='#000000'>NeurIPS</font>) 2022</em><br>
 [<a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/08.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Code</a>] [<a href="">Video</a>]
 </p>
@@ -68,9 +68,9 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <tr>
 <td width="100%">
 <p>
-    <b>A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources</b><br>
-    <b>Tan, X.</b>, Chang, C., Zhou, L., Tang, L.<br>
-    <em>International Conference on Machine Learning (ICML) 2022</em><br>
+    <b><font color='#000000'>A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources</font></b><br>
+    <b><font color='#000000'>Tan, X.</font></b>, Chang, C., Zhou, L., Tang, L.<br>
+    <em>International Conference on Machine Learning (<font color='#000000'>ICML</font>) 2022</em><br>
     <font color='#CD5C5C'>** Winner of the Student Research Award at the 35th New England Statistics Symposium</font><br>
     <font color='#CD5C5C'>** Honorable Mention Award at JSM 2021 Student Paper Competition</font><br>
 [<a href="https://proceedings.mlr.press/v162/tan22a/tan22a.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ifedtree">Code</a>] [<a href="https://slideslive.com/38984007/a-treebased-model-averaging-approach-for-personalized-treatment-effect-estimation-from-heterogeneous-data-sources">Video</a>]
@@ -82,9 +82,9 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <tr>
 <td width="100%">
 <p>
-    <b>Identifying Principal Stratum Causal Effects Conditional on a Post-treatment Intermediate Response</b><br>
-    <b>Tan, X.</b>, Abberbock, J., Rastogi, P., Tang, G.<br>
-    <em>Causal Learning and Reasoning (CLeaR) 2022</em><br>
+    <b><font color='#000000'>Identifying Principal Stratum Causal Effects Conditional on a Post-treatment Intermediate Response</font></b><br>
+    <b><font color='#000000'>Tan, X.</font></b>, Abberbock, J., Rastogi, P., Tang, G.<br>
+    <em>Causal Learning and Reasoning (<font color='#000000'>CLeaR</font>) 2022</em><br>
 [<a href="https://proceedings.mlr.press/v177/tan22a/tan22a.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ps_ate">Code</a>] 
 </p>
 </td>
