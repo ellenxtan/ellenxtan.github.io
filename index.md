@@ -57,7 +57,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <td width="100%">
 <p>
     <font color='#000000'>RISE: Robust Individualized Decision Learning with Sensitive Variables</font><br>
-    <b>Tan, X.</b>, Qi, Z., Seymour, C., Tang, L.<br>
+    <font color='#000000'>Tan, X.</font>, Qi, Z., Seymour, C., Tang, L.<br>
     <em>Advances in Neural Information Processing Systems (<font color='#000000'>NeurIPS</font>) 2022</em><br>
 [<a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/08.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Code</a>] [<a href="">Video</a>]
 </p>
