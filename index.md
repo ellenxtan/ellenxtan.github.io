@@ -56,8 +56,8 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <td width="100%">
 <p>
     <b>RISE: Robust Individualized Decision Learning with Sensitive Variables</b><br>
-    <b>Xiaoqing Tan</b>, Zhengling Qi, hristopher W. Seymour, Lu Tang<br>
-    <em>Neural Information Processing Systems (NeurIPS) 2022</em><br>
+    <b>Tan, X.</b>, Qi, Z., Seymour, C., Tang, L.<br>
+    <em>Advances in Neural Information Processing Systems (NeurIPS) 2022</em><br>
 [<a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/08.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Code</a>] [<a href="">Video</a>]
 </p>
 </td>
@@ -68,7 +68,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <td width="100%">
 <p>
     <b>A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources</b><br>
-    <b>Xiaoqing Tan</b>, Chung-Chou H. Chang, Ling Zhou, Lu Tang<br>
+    <b>Tan, X.</b>, Chang, C., Zhou, L., Tang, L.<br>
     <em>International Conference on Machine Learning (ICML) 2022</em><br>
     <font color='#CD5C5C'>** Winner of the Student Research Award at the 35th New England Statistics Symposium</font><br>
     <font color='#CD5C5C'>** Honorable Mention Award at JSM 2021 Student Paper Competition</font><br>
@@ -82,7 +82,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <td width="100%">
 <p>
     <b>Identifying Principal Stratum Causal Effects Conditional on a Post-treatment Intermediate Response</b><br>
-    <b>Xiaoqing Tan</b>, Judah Abberbock, Priya Rastogi, Gong Tang<br>
+    <b>Tan, X.</b>, Abberbock, J., Rastogi, P., Tang, G.<br>
     <em>Causal Learning and Reasoning (CLeaR) 2022</em><br>
 [<a href="https://proceedings.mlr.press/v177/tan22a/tan22a.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/ps_ate">Code</a>] 
 </p>
@@ -98,7 +98,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <td width="100%">
 <p>
     <b>A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources</b><br>
-    <b>Xiaoqing Tan</b><br>
+    <!-- <b>Xiaoqing Tan</b><br> -->
     <em>The 35th New England Statistics Symposium (NESS) 2022, Storrs, CT</em><br>
 </p>
 </td>
@@ -108,7 +108,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <td width="100%">
 <p>
     <b>Improving personalized causal inference with information borrowed from heterogeneous data sources</b><br>
-    <b>Xiaoqing Tan</b><br>
+    <!-- <b>Xiaoqing Tan</b><br> -->
     <em>The 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics) 2021, King's College London, UK</em><br>
 </p>
 </td>
@@ -117,7 +117,6 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 
 ## Selected Awards
 
-- National Science Foundation (NSF) Scholarships for Quality and Productivity Research Conference (QPRC), 2022
 - Winner of the Student Research Award at the 35th New England Statistics Symposium (NESS), 2022
 - Honorable Mention Award at the ASA Joint Statistical Meetings (JSM) Statistical Learning and Data Science (SLDS) Section Student Paper Award competition, 2021
 - Best performance on the Ph.D. Qualifying Exam, Department of Biostatistics, University of Pittsburgh, 2020
