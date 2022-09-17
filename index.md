@@ -40,7 +40,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
       </div> -->
 
 
-## Selected Publications
+## Featured Publications
 
 <!-- <tr>
 <td width="100%">
@@ -91,14 +91,12 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 </tr>
 
 
-## Selected Talks
-
-### Invited
+## Invited Talks
 
 <tr>
 <td width="100%">
 <p>
-    <b>A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources</b><br>
+    <b><font color='#000000'>A Tree-based Model Averaging Approach for Personalized Treatment Effect Estimation from Heterogeneous Data Sources</font></b><br>
     <!-- <b>Xiaoqing Tan</b><br> -->
     <em>The 35th New England Statistics Symposium (NESS) 2022, Storrs, CT</em><br>
 </p>
@@ -108,7 +106,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 <tr>
 <td width="100%">
 <p>
-    <b>Improving personalized causal inference with information borrowed from heterogeneous data sources</b><br>
+    <b><font color='#000000'>Improving personalized causal inference with information borrowed from heterogeneous data sources</font></b><br>
     <!-- <b>Xiaoqing Tan</b><br> -->
     <em>The 14th International Conference of the ERCIM WG on Computational and Methodological Statistics (CMStatistics) 2021, King's College London, UK</em><br>
 </p>
