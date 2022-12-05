@@ -2,12 +2,12 @@
 layout: default
 ---
 ## About Me
-I am a Ph.D. candidate in Biostatistics at University of Pittsburgh, advised by [Lu Tang](https://publichealth.pitt.edu/home/directory/lu-tang) and [Gong Tang](https://publichealth.pitt.edu/home/directory/gong-tang). I was a visiting student in Computer Science at Carnegie Mellon University from 2019 to 2021. I obtained my B.S. in Pharmacy and Computer Science at Sun Yat-sen University in 2018. 
+I am a Data Science Researcher at Meta AI (FAIR). Prior to that, I obtained my Ph.D. in Biostatistics at [University of Pittsburgh](https://publichealth.pitt.edu/biostatistics) in 2022, advised by [Lu Tang](https://publichealth.pitt.edu/home/directory/lu-tang) and [Gong Tang](https://publichealth.pitt.edu/home/directory/gong-tang). I was a visiting student in Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/) from 2019 to 2021. I obtained my B.S. in Pharmacy and Computer Science at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2018. 
 
 My research interest lies in developing novel statistical and machine learning methods in <font color='#000000'>causal inference</font>, <font color='#000000'>data integration</font>, and <font color='#000000'>decision fairness</font>.
 <!-- <strong>data integration</strong>, and <strong>decision fairness</strong>.  -->
 
-I am currently a Graduate student researcher at [NRG Oncology](https://www.nrgoncology.org/). I interned at [Eli Lilly and Company](https://www.lilly.com/) working with [Shu Yang](https://shuyang.wordpress.ncsu.edu/) and [Ilya Lipkovich](https://scholar.google.com/citations?user=m4bEhasAAAAJ&hl=en) in summer 2021. I also work with [Timothy Girard](https://ccm.pitt.edu/?q=content/girard-timothy) at Department of Critical Care Medicine, University of Pittsburgh. 
+I had been a Graduate student researcher at [NRG Oncology](https://www.nrgoncology.org/) during my PhD. I interned at [Eli Lilly and Company](https://www.lilly.com/) in summer 2021 working with [Shu Yang](https://shuyang.wordpress.ncsu.edu/) and [Ilya Lipkovich](https://scholar.google.com/citations?user=m4bEhasAAAAJ&hl=en). I also worked with [Timothy Girard](https://ccm.pitt.edu/?q=content/girard-timothy) at Department of Critical Care Medicine, University of Pittsburgh. 
 
 I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane Animal Rescue](https://www.humaneanimalrescue.org/), I am a pro-bono consultant at [Fourth River Solutions](http://www.fourthriversolutions.org/) for local businesses in Pittsburgh. I worked as a data science project reviewer in a global team at [DataKind](https://www.datakind.org/) to help identify impactful and innovative proposals that will help spur inclusive growth during the pandemic in summer 2020.
 
@@ -59,7 +59,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
     <b><font color='#000000'>RISE: Robust Individualized Decision Learning with Sensitive Variables</font></b><br>
     <b><font color='#000000'>Tan, X.</font></b>, Qi, Z., Seymour, C., Tang, L.<br>
     <em>Advances in Neural Information Processing Systems (<font color='#000000'>NeurIPS</font>) 2022</em><br>
-[<a href="https://responsibledecisionmaking.github.io/assets/pdf/papers/08.pdf">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Code</a>] [<a href="">Video</a>]
+[<a href="https://arxiv.org/abs/2211.06569">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Code</a>] [<a href="">Video</a>]
 </p>
 </td>
 </tr>
