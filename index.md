@@ -59,7 +59,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
     <b><font color='#000000'>RISE: Robust Individualized Decision Learning with Sensitive Variables</font></b><br>
     <b><font color='#000000'>Tan, X.</font></b>, Qi, Z., Seymour, C., Tang, L.<br>
     <em>Advances in Neural Information Processing Systems (<font color='#000000'>NeurIPS</font>) 2022</em><br>
-    <font color='#CD5C5C'>** Distinguished Student Paper Awards for the ENAR 2023 Spring Meeting</font><br>
+    <font color='#CD5C5C'>** Distinguished Student Paper Award for the ENAR 2023 Spring Meeting</font><br>
 [<a href="https://arxiv.org/abs/2211.06569">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Code</a>] [<a href="">Video</a>]
 </p>
 </td>
