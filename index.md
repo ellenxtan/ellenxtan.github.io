@@ -9,7 +9,7 @@ My research interest lies in developing novel statistical and machine learning m
 
 I had been a Graduate student researcher at [NRG Oncology](https://www.nrgoncology.org/) during my PhD. I interned at [Eli Lilly and Company](https://www.lilly.com/) in summer 2021 working with [Shu Yang](https://shuyang.wordpress.ncsu.edu/) and [Ilya Lipkovich](https://scholar.google.com/citations?user=m4bEhasAAAAJ&hl=en). I also worked with [Timothy Girard](https://ccm.pitt.edu/?q=content/girard-timothy) at Department of Critical Care Medicine, University of Pittsburgh. 
 
-I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane Animal Rescue](https://www.humaneanimalrescue.org/), I am a pro-bono consultant at [Fourth River Solutions](http://www.fourthriversolutions.org/) for local businesses in Pittsburgh. I worked as a data science project reviewer in a global team at [DataKind](https://www.datakind.org/) to help identify impactful and innovative proposals that will help spur inclusive growth during the pandemic in summer 2020.
+I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane Animal Rescue](https://www.humaneanimalrescue.org/), I was a pro-bono consultant at [Fourth River Solutions](http://www.fourthriversolutions.org/) for local businesses in Pittsburgh. I worked as a data science project reviewer in a global team at [DataKind](https://www.datakind.org/) to help identify impactful and innovative proposals that will help spur inclusive growth during the pandemic in summer 2020.
 
 
 <!-- ## Education
@@ -59,6 +59,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
     <b><font color='#000000'>RISE: Robust Individualized Decision Learning with Sensitive Variables</font></b><br>
     <b><font color='#000000'>Tan, X.</font></b>, Qi, Z., Seymour, C., Tang, L.<br>
     <em>Advances in Neural Information Processing Systems (<font color='#000000'>NeurIPS</font>) 2022</em><br>
+    <font color='#CD5C5C'>** Distinguished Student Paper Awards for the ENAR 2023 Spring Meeting</font><br>
 [<a href="https://arxiv.org/abs/2211.06569">Paper</a>] [<a href="https://github.com/ellenxtan/rise">Code</a>] [<a href="">Video</a>]
 </p>
 </td>
@@ -116,6 +117,7 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 
 ## Selected Awards
 
+- Winner of Distinguished Student Paper Awards for the International Biometric Society Eastern North American Region’s (ENAR) Spring Meeting, 2023
 - Winner of the Student Research Award at the 35th New England Statistics Symposium (NESS), 2022
 - Honorable Mention Award at the ASA Joint Statistical Meetings (JSM) Statistical Learning and Data Science (SLDS) Section Student Paper Award competition, 2021
 - Best performance on the Ph.D. Qualifying Exam, Department of Biostatistics, University of Pittsburgh, 2020
@@ -124,9 +126,10 @@ I enjoy volunteering. As well as being am a weekly cat care volunteer at [Humane
 
 ## Professional Services
 
-- Reviewer for NeurIPS, ICML, AISTATS, IEEE Transactions on Industrial Informatics, etc
+- Program Chair, the 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023) (August 19-25, 2023, Cape Town, South Africa)
+- Program Committee, ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023 Research Track (August 6-10, 2023, Long Beach, CA)
+- Program Committee, NeurIPS Workshop on INTERPOLATE - First Workshop on Interpolation Regularizers and Beyond, 2022 (November 28 - December 9, New Orleans, LA)
 - Session Chair, CS17 Data-driven Healthcare, 2022 Symposium on Data Science & Statistics (June 7-10, 2022, Pittsburgh, PA)
-- Student Volunteer, The 2nd Conference on Lifetime Data Science (LiDS) (May 29-31, 2019, Pittsburgh, PA)
-- Student Volunteer, The 2019 ASA Pittsburgh Chapter Spring Banquet (April 16, 2019, Pittsburgh, PA)
+- Reviewer for NeurIPS, ICML, AISTATS, Annals of Applied Statistics, IEEE Transactions on Industrial Informatics, etc
 
 
