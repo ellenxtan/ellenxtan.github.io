@@ -2,7 +2,7 @@
 layout: default
 ---
 ## About Me
-I am a Data Science Researcher at Meta AI (FAIR). Prior to that, I obtained my Ph.D. in Biostatistics at [University of Pittsburgh](https://publichealth.pitt.edu/biostatistics) in 2022, advised by [Lu Tang](https://publichealth.pitt.edu/home/directory/lu-tang) and [Gong Tang](https://publichealth.pitt.edu/home/directory/gong-tang). I was a visiting student in Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/) from 2019 to 2021. I obtained my B.S. in Pharmacy and Computer Science at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2018. 
+I am a Research Scientist at Meta (GenAI Llama; previously FAIR). Prior to that, I obtained my Ph.D. in Biostatistics at [University of Pittsburgh](https://publichealth.pitt.edu/biostatistics) in 2022, advised by [Lu Tang](https://publichealth.pitt.edu/home/directory/lu-tang) and [Gong Tang](https://publichealth.pitt.edu/home/directory/gong-tang). I was a visiting student in Computer Science at [Carnegie Mellon University](https://www.cs.cmu.edu/) from 2019 to 2021. I obtained my B.S. in Pharmacy and Computer Science at [Sun Yat-sen University](https://www.sysu.edu.cn/sysuen/) in 2018. 
 
 My research interest lies in developing novel statistical and machine learning methods in <font color='#000000'>causal inference</font>, <font color='#000000'>data integration</font>, and <font color='#000000'>decision fairness</font>.
 <!-- <strong>data integration</strong>, and <strong>decision fairness</strong>.  -->
