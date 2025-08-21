@@ -43,8 +43,59 @@ Prior to that, I obtained my Ph.D. in Biostatistics at [University of Pittsburgh
       </ul>      
       </div> -->
 
+## Major Technical Reports
+*: core contributor
 
-## Featured Publications
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>The Llama 3 Herd of Models</font></b><br>
+    Llama-Team, Dubey, A., Jauhri, A., Pandey, A., ..., <b><font color='#000000'>Tan, X.∗</font></b>, ..., et al.<br>
+    <em>arXiv preprint arXiv:2407.21783 2024</em><br>
+    <!-- <font color='#CD5C5C'>** Llama 3 introduced 8B, 70B, and 405B-parameter models, trained on 15 trillion tokens and offering up to a 128K context window. It has been widely discussed in media and the AI community for achieving state-of-the-art performance on reasoning, coding, and multilingual benchmarks. The models are fully open-sourced and accessible through Hugging Face and major cloud providers.</font><br> -->
+[<a href="https://arxiv.org/abs/2407.21783">Paper</a>] [<a href="https://github.com/meta-llama/llama3">Code</a>]
+</p>
+</td>
+</tr>
+
+
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>Chameleon: Mixed-Modal Early-Fusion Foundation Models</font></b><br>
+    Chameleon-Team, ..., <b><font color='#000000'>Tan, X.∗</font></b>, ..., et al.<br>
+    <em>arXiv preprint arXiv:2405.09818 2024</em><br>
+[<a href="https://arxiv.org/abs/2405.09818">Paper</a>] [<a href="https://github.com/facebookresearch/chameleon">Code</a>]
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>Llama 2: Open Foundation and Fine-Tuned Chat Models</font></b><br>
+    Llama-Team, Touvron, H., Martin, L., Stone, K., ..., <b><font color='#000000'>Tan, X.∗</font></b>, Tang, B., ..., et al.<br>
+    <em>arXiv preprint arXiv:2307.09288 2023</em><br>
+    <!-- <font color='#CD5C5C'>** Llama 2 is widely covered by major media such as The New York Times, The Guardian, and CNBC, and discussed and cited by the academic community. The paper has accumulated about 600 citations within the first three months of publication. The model has been made available on commercial cloud services such as Google Cloud Platform, Amazon Web Services, and Microsoft Azure.</font><br> -->
+[<a href="https://arxiv.org/abs/2307.09288">Paper</a>] [<a href="https://github.com/meta-llama/llama">Code</a>]
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>Code Llama: Open Foundation Models for Code</font></b><br>
+    Rozière, B., Gehring, J., Gloeckle, F., Sootla, S., Gat, I., <b><font color='#000000'>Tan, X.</font></b>, Adi, Y., Liu, J., Remez, T., Rapin, J., et al.<br>
+    <em>arXiv preprint arXiv:2308.12950 2023</em><br>
+    <!-- <font color='#CD5C5C'>** Code Llama is widely covered by major media such as Reuters, The Verge, and Wired. The model has been made available on commercial cloud services such as Google Cloud Platform, Amazon Web Services, and Microsoft Azure.</font><br> -->
+[<a href="https://arxiv.org/abs/2308.12950">Paper</a>] [<a href="https://github.com/meta-llama/codellama">Code</a>]
+</p>
+</td>
+</tr>
+
+
+## Featured Research Papers
 +: co-first author
 ∗: core contributor
 
@@ -53,7 +104,7 @@ Prior to that, I obtained my Ph.D. in Biostatistics at [University of Pittsburgh
 <p>
     <b><font color='#000000'>Towards Massive Multilingual Holistic Bias</font></b><br>
     <b><font color='#000000'>Tan, X.</font></b>, Hansanti, P., Turkatenko, A., Chuang, J., Wood, C., Yu, B., Ropers, C., Costa-jussà, M. R.<br>
-    <em>Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP) 2025</em><br>
+    <em>Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP) at Association for Computational Linguistics (ACL) 2025</em><br>
 [<a href="https://aclanthology.org/2025.gebnlp-1.35/">Paper</a>] [<a href="https://github.com/facebookresearch/ResponsibleNLP/tree/main/mmhb">Code</a>]
 </p>
 </td>
@@ -64,7 +115,7 @@ Prior to that, I obtained my Ph.D. in Biostatistics at [University of Pittsburgh
 <p>
     <b><font color='#000000'>Federated Learning of Robust Individualized Decision Rules with Application to Heterogeneous Multihospital Sepsis Population</font></b><br>
     Chen, X., Talisa, V. B., <b><font color='#000000'>Tan, X.</font></b>, Qi, Z., Kennedy, J. N., Chang, C.-C. H., Seymour, C. W., Tang, L.<br>
-    <em>The Annals of Applied Statistics 19(2) 2025</em><br>
+    <em>The Annals of Applied Statistics 2025</em><br>
 [<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Federated-learning-of-robust-individualized-decision-rules-with-application-to/10.1214/25-AOAS2017.full">Paper</a>]
 </p>
 </td>
@@ -86,7 +137,7 @@ Prior to that, I obtained my Ph.D. in Biostatistics at [University of Pittsburgh
 <p>
     <b><font color='#000000'>Efficient Tool Use with Chain-of-Abstraction Reasoning</font></b><br>
     Gao, S., Dwivedi-Yu, J., Yu, P., <b><font color='#000000'>Tan, X.</font></b>, Pasunuru, R., Golovneva, O., Sinha, K., Celikyilmaz, A., Bosselut, A., Wang, T.<br>
-    <em>Proceedings of the 31st International Conference on Computational Linguistics (COLING) 2025</em><br>
+    <em>Proceedings of the 31st International Conference on Computational Linguistics (<font color='#000000'>COLING</font>) 2025</em><br>
 [<a href="https://aclanthology.org/2025.coling-main.185/">Paper</a>]
 </p>
 </td>
@@ -108,7 +159,7 @@ Prior to that, I obtained my Ph.D. in Biostatistics at [University of Pittsburgh
 <p>
     <b><font color='#000000'>Altogether: Image Captioning via Re-aligning Alt-text</font></b><br>
     Xu, H., Huang, P.-Y., <b><font color='#000000'>Tan, X.</font></b>, Yeh, C.-F., Kahn, J., Jou, C., Ghosh, G., Levy, O., Zettlemoyer, L., Yih, W.-t., Li, S.-W., Xie, S., Feichtenhofer, C.<br>
-    <em>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024</em><br>
+    <em>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (<font color='#000000'>EMNLP</font>) 2024</em><br>
 [<a href="https://aclanthology.org/2024.emnlp-main.193/">Paper</a>] [<a href="https://github.com/facebookresearch/MetaCLIP">Code</a>]
 </p>
 </td>
@@ -119,7 +170,7 @@ Prior to that, I obtained my Ph.D. in Biostatistics at [University of Pittsburgh
 <p>
     <b><font color='#000000'>Demystifying CLIP Data (MetaCLIP)</font></b><br>
     Xu, H., Xie, S., <b><font color='#000000'>Tan, X.</font></b>, Huang, P.-Y., Howes, R., Sharma, V., Li, S.-W., Ghosh, G., Zettlemoyer, L., Feichtenhofer, C.<br>
-    <em>The Twelfth International Conference on Learning Representations (ICLR) 2024</em><br>
+    <em>The Twelfth International Conference on Learning Representations (<font color='#000000'>ICLR</font>) 2024</em><br>
     <font color='#CD5C5C'>** ICLR Spotlights (top 5%)</font><br>
 [<a href="https://openreview.net/forum?id=5BCFlnfE1g">Paper</a>] [<a href="https://github.com/facebookresearch/MetaCLIP">Code</a>]
 </p>
@@ -129,9 +180,20 @@ Prior to that, I obtained my Ph.D. in Biostatistics at [University of Pittsburgh
 <tr>
 <td width="100%">
 <p>
+    <b><font color='#000000'>An Introduction to Vision-Language Modeling</font></b><br>
+    Bordes, F., Pang, R. Y., Ajay, A., Li, A. C., ..., <b><font color='#000000'>Tan, X.</font></b>, ..., et al.<br>
+    <em>arXiv preprint arXiv:2405.17247 2024</em><br>
+[<a href="https://arxiv.org/abs/2405.17247">Paper</a>]
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+<p>
     <b><font color='#000000'>ROBBIE: Robust Bias Evaluation of Large Generative Language Models</font></b><br>
     Esiobu, D.+, <b><font color='#000000'>Tan, X.+</font></b>, Hosseini, S.+, Ung, M., Zhang, Y., Fernandes, J., Dwivedi-Yu, J., Presani, E., Williams, A., Smith, E. M.<br>
-    <em>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023</em><br>
+    <em>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (<font color='#000000'>EMNLP</font>) 2023</em><br>
 [<a href="https://aclanthology.org/2023.emnlp-main.230/">Paper</a>] [<a href="https://github.com/facebookresearch/ResponsibleNLP/tree/main/robbie">Code for eval framework</a>] [<a href="https://github.com/facebookresearch/ResponsibleNLP/tree/main/AdvPromptSet">AdvPromptSet benchmark</a>]
 </p>
 </td>
