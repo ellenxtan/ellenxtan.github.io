@@ -45,17 +45,108 @@ Prior to that, I obtained my Ph.D. in Biostatistics at [University of Pittsburgh
 
 
 ## Featured Publications
++: co-first author
+∗: core contributor
 
-<!-- <tr>
+<tr>
 <td width="100%">
 <p>
-    <b>When Doubly Robust Methods Meet Machine Learning for Estimating Treatment Effects from Real-World Data</b><br>
-    <b>Xiaoqing Tan</b>, Shu Yang, Wenyu Ye, Douglas E. Faries, Ilya Lipkovich, Zbigniew Kadziola<br>
-    <em>Submitted</em><br>
-[<a href="https://arxiv.org/pdf/2204.10969.pdf">Paper</a>] 
+    <b><font color='#000000'>Towards Massive Multilingual Holistic Bias</font></b><br>
+    <b><font color='#000000'>Tan, X.</font></b>, Hansanti, P., Turkatenko, A., Chuang, J., Wood, C., Yu, B., Ropers, C., Costa-jussà, M. R.<br>
+    <em>Proceedings of the 6th Workshop on Gender Bias in Natural Language Processing (GeBNLP) 2025</em><br>
+[<a href="https://aclanthology.org/2025.gebnlp-1.35/">Paper</a>] [<a href="https://github.com/facebookresearch/ResponsibleNLP/tree/main/mmhb">Code</a>]
 </p>
 </td>
-</tr> -->
+</tr>
+
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>Federated Learning of Robust Individualized Decision Rules with Application to Heterogeneous Multihospital Sepsis Population</font></b><br>
+    <b>Chen, X., Talisa, V. B., <font color='#000000'>Tan, X.</font></b>, Qi, Z., Kennedy, J. N., Chang, C.-C. H., Seymour, C. W., Tang, L.<br>
+    <em>The Annals of Applied Statistics 19(2) 2025</em><br>
+[<a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-2/Federated-learning-of-robust-individualized-decision-rules-with-application-to/10.1214/25-AOAS2017.full">Paper</a>]
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>Double Machine Learning Methods for Estimating Average Treatment Effects: A Comparative Study</font></b><br>
+    <b><font color='#000000'>Tan, X.</font></b>, Yang, S., Ye, W., Faries, D. E., Lipkovich, I., Kadziola, Z.<br>
+    <em>Journal of Biopharmaceutical Statistics 2025</em><br>
+[<a href="https://www.tandfonline.com/doi/abs/10.1080/10543406.2025.2489281">Paper</a>] [<a href="https://github.com/ellenxtan/RealWorld-DoublyRobustML">Code</a>]
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>Efficient Tool Use with Chain-of-Abstraction Reasoning</font></b><br>
+    <b>Gao, S., Dwivedi-Yu, J., Yu, P., <font color='#000000'>Tan, X.</font></b>, Pasunuru, R., Golovneva, O., Sinha, K., Celikyilmaz, A., Bosselut, A., Wang, T.<br>
+    <em>Proceedings of the 31st International Conference on Computational Linguistics (COLING) 2025</em><br>
+[<a href="https://aclanthology.org/2025.coling-main.185/">Paper</a>]
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>A General Framework for Robust Individualized Decision Learning with Sensitive Variables</font></b><br>
+    <b><font color='#000000'>Tan, X.</font></b>, Qi, Z., Tang, L., Cohen, M. C.<br>
+    <em>SSRN 2024</em><br>
+[<a href="https://ssrn.com/abstract=4722923">Paper</a>]
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>Altogether: Image Captioning via Re-aligning Alt-text</font></b><br>
+    <b>Xu, H., Huang, P.-Y., <font color='#000000'>Tan, X.</font></b>, Yeh, C.-F., Kahn, J., Jou, C., Ghosh, G., Levy, O., Zettlemoyer, L., Yih, W.-t., Li, S.-W., Xie, S., Feichtenhofer, C.<br>
+    <em>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024</em><br>
+[<a href="https://aclanthology.org/2024.emnlp-main.193/">Paper</a>] [<a href="https://github.com/facebookresearch/MetaCLIP">Code</a>]
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>Demystifying CLIP Data (MetaCLIP)</font></b><br>
+    <b>Xu, H., Xie, S., <font color='#000000'>Tan, X.</font></b>, Huang, P.-Y., Howes, R., Sharma, V., Li, S.-W., Ghosh, G., Zettlemoyer, L., Feichtenhofer, C.<br>
+    <em>The Twelfth International Conference on Learning Representations (ICLR) 2024</em><br>
+    <font color='#CD5C5C'>** ICLR Spotlights (top 5%)</font><br>
+[<a href="https://openreview.net/forum?id=5BCFlnfE1g">Paper</a>] [<a href="https://github.com/facebookresearch/MetaCLIP">Code</a>]
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>ROBBIE: Robust Bias Evaluation of Large Generative Language Models</font></b><br>
+    <b>Esiobu, D.+, <font color='#000000'>Tan, X.+</font></b>, Hosseini, S.+, Ung, M., Zhang, Y., Fernandes, J., Dwivedi-Yu, J., Presani, E., Williams, A., Smith, E. M.<br>
+    <em>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP) 2023</em><br>
+[<a href="https://aclanthology.org/2023.emnlp-main.230/">Paper</a>] [<a href="https://github.com/facebookresearch/ResponsibleNLP/tree/main/robbie">Code for eval framework</a>] [<a href="https://github.com/facebookresearch/ResponsibleNLP/tree/main/AdvPromptSet">AdvPromptSet benchmark</a>]
+</p>
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+<p>
+    <b><font color='#000000'>Shepherd: A Critic for Language Model Generation</font></b><br>
+    <b>Wang, T., Yu, P., <font color='#000000'>Tan, X.∗</font></b>, O’Brien, S., Pasunuru, R., Dwivedi-Yu, J., Golovneva, O., Zettlemoyer, L., Fazel-Zarandi, M., Celikyilmaz, A.<br>
+    <em>arXiv preprint arXiv:2308.04592 2023</em><br>
+[<a href="https://arxiv.org/abs/2308.04592">Paper</a>] [<a href="https://github.com/facebookresearch/Shepherd">Code</a>]
+</p>
+</td>
+</tr>
 
 <tr>
 <td width="100%">
